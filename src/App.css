@@ -1,0 +1,12 @@
+:root{
+    --primary-color: #333;
+}
+
+
+body{
+    all:initial;
+    background: var(--primary-color, black);
+    color: whitesmoke;
+    margin:0;
+    padding:0;
+}
